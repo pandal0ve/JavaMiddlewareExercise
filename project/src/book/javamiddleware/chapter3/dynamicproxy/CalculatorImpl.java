@@ -1,4 +1,4 @@
-package chapter3.dynamicproxy;
+package book.javamiddleware.chapter3.dynamicproxy;
 
 public class CalculatorImpl implements Calculator {
 

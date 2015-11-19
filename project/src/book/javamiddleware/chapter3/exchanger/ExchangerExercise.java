@@ -1,4 +1,4 @@
-package chapter3.exchanger;
+package book.javamiddleware.chapter3.exchanger;
 
 import java.util.ArrayList;
 import java.util.List;
