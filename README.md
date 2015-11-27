@@ -10,3 +10,5 @@ package book.javabasicalgorithm contains the code exercise in the book javaåŸºæœ
    * FenJieZhiYinShu -- 2015/11/19
    * CurrencyChineseExpress -- 2015/11/19 
    * NumberSort -- 2015/11/19
+   * ChaiJieNumber -- 2015/11/26
+   * NumberGame -- 2015/11/27
