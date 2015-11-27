@@ -12,3 +12,5 @@ package book.javabasicalgorithm contains the code exercise in the book javaåŸºæœ
    * NumberSort -- 2015/11/19
    * ChaiJieNumber -- 2015/11/26
    * NumberGame -- 2015/11/27
+   * SnakePrint -- 2015/11/27
+   * DoubleColoredBall -- 2015/11/27
